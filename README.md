@@ -1,5 +1,5 @@
 # Decathlon-exercise
-java project with unit test cases (No External Library)
+This is a java project with unit test cases (No External Library allowed)
 
 The purpose of the assignment is not to check whether you can replicate something, but rather to see your take on the outcome and get to know your way of solving common problems. Apply the skills that you already have, get creative and do your best.
 
